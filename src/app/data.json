@@ -1,0 +1,203 @@
+{
+  "summary": "I'm a bachelor of Computer Science from Gunadarma University which one of the reputable universities in Indonesia who eager to learn new things and Enthusiast about the whole technology which exists since I was in elementary school. I am also interested in web technology, graphic design, and databases. Currently, I love playing around with HTML, CSS, JS, and Databases like SQL, Oracle and sometimes I take side projects for increasing my experience and learn new various things. For now I'm focusing on web technology, especially in the frontend and focus on using javascript.",
+  "name": "Azka Andya Safira",
+  "headlLine": "Js Nerd",
+  "location": "Bekasi, Jawa Barat",
+  "email": "azkaandyaaa@gmail.com",
+  "phoneNumber": "+62895333888311",
+  "playground": [
+    "React Js",
+    "React Native",
+    "Redux",
+    "Java Script",
+    "TypeScript",
+    "Sequelize.js",
+    "My SQL",
+    "Oracle",
+    "SQL Server",
+    "Figma",
+    "HTML + CSS",
+    "Material - UI",
+    "Express.Js",
+    "Postman",
+    "RestFull API",
+    "git",
+    "Jenkins",
+    "Node.js",
+    "Tailwind css",
+    "Next.js",
+    "GraphQL",
+    "Vue js",
+    "Kotlin",
+    "NGINX"
+  ],
+  "education": [
+    {
+      "University" : "Gunadarma University",
+      "year" : "2016 - 2021",
+      "degree" : "Bachelor's Degree of Information System",
+      "Gpa" : "3.44"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Sapphire Skyscraper Financial Technology Pte Ltd",
+      "titleJob": "Senior Frontend Developer",
+      "startDate": "August 2023",
+      "endDate": "Present",
+      "description": "Sapphire Skyscraper is a growth capital fund focused on Financial Technology, Big Data, eCommerce, Gaming in South Asia. We operate out of Singapore with growing portfolio holdings in Thailand and India.",
+      "jobDesc": [
+        "Do the slicing that the UI/UX team has made, I am usually using Vue and Kotlin",
+        "Perform API integration with the backend , i do to managing the data that the server-side provides to display on the client-side",
+        "Help the product team while working on the project",
+        "Managing git and deploying with jenkins",
+        "Do maintenance, development on the client-side."
+      ],
+      "tech":[
+        "React",
+        "Next Js",
+        "TypeScript",
+        "Vue js",
+        "Kotlin",
+        "Jenkins",
+        "NGINX",
+        "git",
+        "Tailwind css"
+      ]
+    },
+    {
+      "company": "PT Barito Integra Teknologi",
+      "titleJob": "Frontend Developer",
+      "startDate": "Febuary 2022",
+      "endDate": "August 2023",
+      "description": "BIT is an IT solution service company. BIT provide technology-based solutions that can be tailored to the client's needs. Some of they products are ERP-based SAP software (CRM software), HSE automation (K3 applications), SCM (Supply Chain Management) applications, civil engineering software, to coding courses.",
+      "jobDesc": [
+        "Do the slicing that the UI/UX team has made, I am able to use ReactJs, NextJs and React Native with TypeScript (i develop web and mobile apps too), Material-UI and Tailwind, to build the UI.",
+        "Perform API integration with the backend using Graphql, i do to managing the data that the server-side provides to display on the client-side",
+        "Help the product team while working on the project",
+        "Help the leader to menaging git and deploying to AWS and code review",
+        "Do maintenance, development on the client-side."
+      ],
+      "tech":[
+        "React",
+        "React Native",
+        "Redux",
+        "GraphQL",
+        "TypeScript",
+        "git",
+        "Next Js",
+        "TypeScript",
+        "Tailwind css"
+      ]
+    },
+    {
+      "company": "Dattabot",
+      "titleJob": "Frontend Developer",
+      "startDate": "Febuary 2021",
+      "endDate": "Febuary 2022",
+      "description": "Dattabot is an Indonesian Big Data Analytics company with a focus on data integration. Powered by the most advanced analytics technology and the most comprehensive data library in Indonesia.",
+      "jobDesc": [
+        "Do the slicing that the UI/UX team has made, I am able to use ReactJs or React Native",
+        "Perform API integration with the backend, because the company I work for is a big data analytics company, I'm used to managing the data that the server-side provides to display on the client-side.",
+        "Help the product team while working on the project",
+        "Do maintenance and development on the client-side."
+      ],
+      "tech":[
+        "React",
+        "React Native",
+        "Redux",
+        "GraphQL",
+        "git",
+        "JavaScript",
+        "Next Js",
+        "TypeScript",
+        "Tailwind css"
+      ]
+    },
+    {
+      "company": "Gunadarma University",
+      "titleJob": "Labotary Asistant",
+      "startDate": "August 2017",
+      "endDate": "January 2021",
+      "description": "The Virtual Based LePKom Mandiri course is a course with independent and independent learning methods for students to understand, study and explore the selected material. Technical implementation includes pre-test and post-test, learning through print modules, learning through videos, practical activities (programming, running simulations, etc.).",
+      "jobDesc": [
+        "Teach some materials such as web programming fundamentals, DBMS fundamentals, J2EE, Oracle, SQL Server and Java"
+      ],
+      "tech":[
+        "Java",
+        "HTML + CSS",
+        "J2EE",
+        "Oracle",
+        "JavaScript"
+      ]
+    }
+  ],
+  "freelance": [
+    {
+      "company": "Developer",
+      "titleJob": "GBS System",
+      "startDate": "August 2017",
+      "endDate": "January 2021",
+      "description": "The Virtual Based LePKom Mandiri course is a course with independent and independent learning methods for students to understand, study and explore the selected material. Technical implementation includes pre-test and post-test, learning through print modules, learning through videos, practical activities (programming, running simulations, etc.).",
+      "jobDesc": [
+        "Teach some materials such as web programming fundamentals, DBMS fundamentals, J2EE, Oracle, SQL Server and Java"
+      ],
+      "tech":[
+        "PHP",
+        "React",
+        "Redux",
+        "HTML + CSS",
+        "git"
+      ]
+    }
+  ],
+  "otherProject" : [
+    {
+      "name" : "wibuverse",
+      "description" : "Wibuverse provides space for buying and selling digital works for creative industry activists, especially comics and other popular culture. Creative industry activists can buy and sell non-physical works, which do not require large costs and are not limited by distance.",
+      "tech":[
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "HTML + CSS",
+        "Next Js",
+        "git"
+      ]
+    },
+    {
+      "name" : "The Reptiles",
+      "description" : "the reptiles, is a buying and selling website or web-based marketplace for reptile lovers looking for pets and looking for accessories, tools, and necessities for their pets.",
+      "tech":[
+        "JavaScript",
+        "React",
+        "Node Js",
+        "My SQL",
+        "Express Js",
+        "sequelize js",
+        "Material UI"
+      ]
+    },
+    {
+      "name" : "Sembako Go",
+      "description" : "Sembako Go! is a special food and beverage container web-based whose target users are big grocery traders for selling his groceries, small groceries traders to buy supplies of goods selling in their stalls and people who don't have much time to shop",
+      "tech":[
+        "JavaScript",
+        "React",
+        "Node Js",
+        "My SQL",
+        "Express Js",
+        "sequelize js",
+        "Material UI"
+      ]
+    },
+    {
+      "name" : "Nee Chan Periode",
+      "description" : "Nee-chan Period is an application for calculating the menstrual cycle for women, which later on women can predict when their period will come. This application helps record women's menstruation so that it can be more controlled",
+      "tech":[
+        "Java",
+        "Android Studio",
+        "Firebase"
+      ]
+    }
+  ]
+}
